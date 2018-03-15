@@ -5,7 +5,7 @@ fuse = FuseBox.init({
     output: "public/build/$name.js",
     cache: false,
     sourceMaps: true,
-    target: "browser"
+    target: "browser",
 });
 
 fuse.dev({
