@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "noImplicitAny": false,
+        "noUnusedLocals": true,
+        "sourceMap": true,
+        "outDir": "build",
+        "strictNullChecks": true,
+        "jsx": "react",
+        "experimentalDecorators": true
+    }
+}
